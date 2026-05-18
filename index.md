@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+---
+title: Home
+layout: home
+nav_order: 1
+description: "Personal website of Vojtěch Witzany, physicist at Charles University Prague"
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/VojtechW/VojtechW.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# <img src="assets/images/openmoji/1FAC8.svg" alt="" aria-hidden="true"/> Vojtěch Witzany
+{: .fs-9 }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Research Group Leader · Institute of Theoretical Physics · Charles University Prague
+{: .fs-5 .fw-300 }
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="assets/images/prof_pic.jpg" alt="Photo of Vojtěch Witzany" style="float: right; width: 200px; margin: 0 0 1em 2em; border-radius: 4px;"/>
 
-```markdown
-Syntax highlighted code block
+Hello, my name is Vojtěch Witzany and I am a physicist working on the theory and
+phenomenology of black holes. I am based at the
+[Institute of Theoretical Physics](http://utf.mff.cuni.cz/) at
+[Charles University in Prague](https://cuni.cz/), where I lead a small research team
+supported by the [Primus](https://cuni.cz/UKEN-558.html) and
+[GAČR](https://gacr.cz/en/) grants.
 
-# Header 1
-## Header 2
-### Header 3
+My research centres on **extreme mass ratio inspirals (EMRIs)** — systems where a compact
+object spirals into a massive black hole, emitting gravitational waves detectable by the
+future space-based detector [LISA](https://www.lisamission.org/). I also work on the
+broader theory of spinning bodies in curved spacetime, accretion disk theory, and the
+multi-messenger phenomenology of quasi-periodic X-ray eruptions in galactic nuclei.
 
-- Bulleted
-- List
+Use the navigation on the left to explore my [research](research), [publications](publications),
+[team](team), [supervision](supervision), [teaching](teaching), [outreach writing](outreach), and [CV](cv).
 
-1. Numbered
-2. List
+**Contact:** [vojtech.witzany@matfyz.cuni.cz](mailto:vojtech.witzany@matfyz.cuni.cz)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VojtechW/VojtechW.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Profiles:**
+[ArXiv](https://arxiv.org/search/?searchtype=author&query=Witzany%2C+V) ·
+[InspireHEP](https://inspirehep.net/authors/1436457) ·
+[Google Scholar](https://scholar.google.com/citations?user=6ErvxkMAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-9209-5355) ·
+[GitHub](https://github.com/VojtechW/)

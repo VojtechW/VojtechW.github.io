@@ -1,0 +1,14 @@
+# Normalize line endings to LF in the repository for all text files.
+# On checkout, Git will use LF on all platforms (no CRLF conversion on Windows).
+* text=auto eol=lf
+
+# Explicitly mark binary formats so Git never touches their bytes.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
