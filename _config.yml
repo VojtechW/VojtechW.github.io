@@ -17,7 +17,7 @@ title: Vojtěch Witzany
 email: vojtech.witzany@matfyz.cuni.cz
 description: Personal webpage of Vojtěch Witzany, physicist at the Institute of Theoretical Physics, Charles University Prague.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://witzany.science"
+url: "https://www.witzany.science"
 repository: VojtechW/VojtechW.github.io # update to your actual GitHub repo (user/repo)
 
 # Set a path/url to a favicon that will be displayed by the browser
