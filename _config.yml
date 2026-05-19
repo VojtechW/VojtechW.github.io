@@ -150,7 +150,7 @@ liquid:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: 'Icons by <a href="https://openmoji.org/">OpenMoji</a> &ndash; <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC&nbsp;BY&#8209;SA&nbsp;4.0</a>.'
+footer_content: 'Icons by <a href="https://openmoji.org/">OpenMoji</a> &ndash; <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC&nbsp;BY&#8209;SA&nbsp;4.0</a>. Based on the <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a> Jekyll template.'
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
