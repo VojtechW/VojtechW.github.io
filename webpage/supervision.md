@@ -36,9 +36,9 @@ for details.
 
 | Level | Name | Thesis | Since |
 |:------|:-----|:-------|:------|
-| PhD | Álvaro Rafael Martínez Gómez | | Sep 2023 |
+| PhD | Álvaro Rafael Martínez Gómez | *New horizons in back-reaction* | Sep 2023 |
 | PhD | David Podrápský | *Dynamics and radiation-reaction in spinning compact binaries* | Jun 2026 |
-| Mgr. | Matěj Váňa | *Spirálování kompaktních objektů ve skalárně tenzorové teorii gravitace* | Sep 2025 |
+| Mgr. | Matěj Váňa | *Inspirals of compact objects within scalar-tensor modified gravity* | Sep 2025 |
 | Mgr. | Benedikt Janda | *Relativistic orbital dynamics of the plasma from a tidal disruption event* | Sep 2026 |
 | Bc. | Jan Strnad | *Transfer of gravitational wave energy on a massive particle* | Oct 2026 |
 
