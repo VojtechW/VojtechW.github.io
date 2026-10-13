@@ -34,19 +34,21 @@ for details.
 
 ## Current students
 
-| Level | Name | Since |
-|:------|:-----|:------|
-| PhD | Álvaro Rafael Martínez Gómez | Sep 2023 |
-| PhD | David Podrápský | Jun 2026 |
-| Mgr. | Jan Feireisl | Sep 2023 |
-| Mgr. | Matěj Váňa | Sep 2025 |
-| Bc. | Miroslava Tsymbalyuk | Sep 2023 |
+| Level | Name | Thesis | Since |
+|:------|:-----|:-------|:------|
+| PhD | Álvaro Rafael Martínez Gómez | | Sep 2023 |
+| PhD | David Podrápský | *Dynamics and radiation-reaction in spinning compact binaries* | Jun 2026 |
+| Mgr. | Matěj Váňa | *Spirálování kompaktních objektů ve skalárně tenzorové teorii gravitace* | Sep 2025 |
+| Mgr. | Benedikt Janda | *Relativistic orbital dynamics of the plasma from a tidal disruption event* | Sep 2026 |
+| Bc. | Jan Strnad | *Transfer of gravitational wave energy on a massive particle* | Oct 2026 |
 
 ## Past students
 
 ### Charles University (2023–present)
 
-- **Mgr.** David Podrápský (2025/26) — *Analytical solution of the motion of a spinning compact binary*
+- **Mgr.** [Jan Feireisl (2025/26) — *Gravitational-wave inspirals of spinning compact objects through two-timescale methods*](https://hdl.handle.net/20.500.11956/213230)
+- **Mgr.** [David Podrápský (2025/26) — *Analytical solution of the motion of a spinning compact binary*](https://hdl.handle.net/20.500.11956/210153)
+- **Bc.** [Myroslava Tsymbalyuk (2025/26) — *Analytical solution for binary black hole inspirals*](https://hdl.handle.net/20.500.11956/210201)
 - **Bc.** [Matěj Váňa (2024/25) — *Inspirals of rotating black holes and their gravitational waves*](https://hdl.handle.net/20.500.11956/202153)
 - **Bc.** [Aleš Opl (2024/25) — *The canonical action deduced from black hole horizon deformation*](https://hdl.handle.net/20.500.11956/200250)
 - **Bc.** [David Podrápský (2023/24) — *The image of an accretion disk near a black hole*](https://hdl.handle.net/20.500.11956/193468)

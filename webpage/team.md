@@ -23,7 +23,7 @@ Research focus: Effective-one-body waveform models for large-mass-ratio binaries
 
 **Álvaro Rafael Martínez Gómez** — PhD student (started October 2023)
 
-**David Podrápský** — PhD student (starting June 2026)
+**David Podrápský** — PhD student (started June 2026)
 
 ---
 

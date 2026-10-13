@@ -12,7 +12,7 @@ You will find my most recent publications by searching on
 [InspireHEP](https://inspirehep.net/authors/1436457), or
 [Google Scholar](https://scholar.google.com/citations?user=6ErvxkMAAAAJ).
 
-The list below is updated to **May 2026**. Only *published* peer-reviewed works are
+The list below is updated to **October 2026**. Only *published* peer-reviewed works are
 included in reverse chronological order; conference proceedings and preprints are omitted.
 
 ---
