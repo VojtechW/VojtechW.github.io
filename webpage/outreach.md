@@ -40,7 +40,7 @@ I semi-regularly write popular science articles for the Czech magazine
 ## <img src="../assets/images/openmoji/270F.svg" alt="" aria-hidden="true"/> Other writing
 
 - [*Nobelova cena za rok 2020: V centru naší galaxie je cosi temného a těžkého*](https://dml.cz/bitstream/handle/10338.dmlcz/149293/PokrokyMFA_66-2021-4_2.pdf) (Nobel Prize 2020: Something dark and heavy lurks in the centre of our galaxy), *Pokroky matematiky, fyziky a astronomie* 66/4 (2021) — On the 2020 Nobel Prize in Physics awarded to Reinhard Genzel and Andrea Ghez
-- [*Od rtuťového podkladu k černým dírám* (From a mercury base to black holes), *Universum* 3/2019, p. 24](http://www.krestanskaakademie.cz/universum/3-19.pdf) — On the history of relativity from the Michelson & Morley experiment to modern observations
+- [*Od rtuťového podkladu k černým dírám* (From a mercury base to black holes), *Universum* 3/2019, p. 24](https://web.archive.org/web/20220723190248/http://www.krestanskaakademie.cz/universum/3-19.pdf) — On the history of relativity from the Michelson & Morley experiment to modern observations
 - [Series of texts about **String Theory** (2013/14)](https://fykos.org/year27/serial/start) — Written in Czech with Miroslav Rapčák for the high-school physics correspondence seminar of Charles University
 - [Series of texts about **dynamical systems and Chaos theory** (2014/15)](https://fykos.org/year28/serial/start) — Written in Czech for the high-school physics correspondence seminar of Charles University
 

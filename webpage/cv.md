@@ -14,9 +14,9 @@ A full academic CV is available [here](https://drive.google.com/file/d/100a1zMHz
 
 | Period | Position |
 |:-------|:---------|
-| 2023 – present | **Research Group Leader**, [Institute of Theoretical Physics](http://utf.mff.cuni.cz/), Charles University, Prague |
+| 2023 – present | **Research Group Leader**, [Institute of Theoretical Physics](https://utf.mff.cuni.cz/), Charles University, Prague |
 | 2020 – 2022 | **Marie Skłodowska–Curie Individual Fellow**, [Relativity group](https://maths.ucd.ie/relativity/), University College Dublin |
-| 2018 – 2020 | **Postdoctoral researcher**, [Relativistic Astrophysics group](http://astro.cas.cz/), Astronomical Institute, Czech Academy of Sciences |
+| 2018 – 2020 | **Postdoctoral researcher**, [Relativistic Astrophysics group](https://astro.cas.cz/), Astronomical Institute, Czech Academy of Sciences |
 | 2015 – 2018 | **PhD in Theoretical Physics**, [ZARM, University of Bremen](https://www.zarm.uni-bremen.de/en/research/space-science/gravitational-theory.html). [Thesis](https://doi.org/10.26092/elib/106). Awarded *summa cum laude* |
 
 ## Education

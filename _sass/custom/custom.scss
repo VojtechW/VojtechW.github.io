@@ -1,14 +1,12 @@
 // custom SCSS (or CSS) goes here
-$font-stack: Helvetica, Arial;
+$font-stack: helvetica, arial;
 
 // ---------------------------------------------------------------------------
 // Emoji icons inside headings
-//
 // Images marked aria-hidden inside h1/h2/h3 are treated as decorative icons.
 // Sizing uses `em`, which is relative to each heading's own computed font-size,
 // so the icons scale automatically with the typographic hierarchy and with any
 // font-size overrides (e.g. the .fs-9 class on the home-page title).
-//
 // h1  →  1.5em  — rendered as a section "logo", noticeably larger than text
 // h2  →  1.0em  — flush with the heading cap-height
 // h3  →  0.9em  — slightly recessed, subordinate accent
@@ -19,10 +17,18 @@ h2 img[aria-hidden],
 h3 img[aria-hidden] {
   display: inline-block;
   vertical-align: middle;
-  width: auto;         // preserve SVG aspect ratio
+  width: auto; // preserve SVG aspect ratio
   margin-right: 0.35em;
 }
 
-h1 img[aria-hidden] { height: 1.5em; }
-h2 img[aria-hidden] { height: 1.2em; }
-h3 img[aria-hidden] { height: 1.1em; }
+h1 img[aria-hidden] {
+  height: 1.5em;
+}
+
+h2 img[aria-hidden] {
+  height: 1.2em;
+}
+
+h3 img[aria-hidden] {
+  height: 1.1em;
+}

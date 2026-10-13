@@ -18,7 +18,7 @@ Research Group Leader · Institute of Theoretical Physics · Charles University 
 
 Hello, my name is Vojtěch Witzany and I am a physicist working on the theory and
 phenomenology of black holes. I am based at the
-[Institute of Theoretical Physics](http://utf.mff.cuni.cz/) at
+[Institute of Theoretical Physics](https://utf.mff.cuni.cz/) at
 [Charles University in Prague](https://cuni.cz/), where I lead a small research team
 supported by the [Primus](https://cuni.cz/UKEN-558.html) and
 [GAČR](https://gacr.cz/en/) grants.
